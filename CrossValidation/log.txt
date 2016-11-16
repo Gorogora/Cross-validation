@@ -1,0 +1,14 @@
+	*** Log del fichero p1_1.csv ***
+Parámetros empleados:
+Folds: 5
+Número de iteraciones: 100
+Alpha: 1.0
+
+	FOLD		ERROR
+	1		3307794360.954997
+	2		1626790046.1250591
+	3		1665760933.147198
+	4		1157525340.0799
+	5		4374325941.753134
+
+Error medio: 2426439324.41
